@@ -11,7 +11,7 @@ function App() {
         <h4>HW Week 4</h4>
       </header>
       Coded by: Gema Volek 🐾 using
-      <a target="_blank" href="">
+      <a target="_blank" href="https://github.com/gvolek/hw-week4">
         GitHub
       </a>
       and hosted on
