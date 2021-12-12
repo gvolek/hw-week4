@@ -1,23 +1,23 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import "./Weather";
+import { StrictMode } from "react";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Weather App</h1>
+        <Weather />
+        <h4>HW Week 4</h4>
       </header>
+      Coded by: Gema Volek 🐾 using
+      <a target="_blank" href="">
+        GitHub
+      </a>
+      and hosted on
+      <a target="_blank" href="">
+        Netlify
+      </a>
     </div>
   );
 }
