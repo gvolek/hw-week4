@@ -18,7 +18,11 @@ function App() {
         GitHub
       </a>
       and hosted on
-      <a target="_blank" href="" rel="noreferrer">
+      <a
+        target="_blank"
+        href="https://github.com/gvolek/hw-week4"
+        rel="noreferrer"
+      >
         Netlify
       </a>
     </div>
