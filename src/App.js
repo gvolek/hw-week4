@@ -20,7 +20,7 @@ function App() {
       and hosted on
       <a
         target="_blank"
-        href="https://github.com/gvolek/hw-week4"
+        href="https://app.netlify.com/sites/quirky-kilby-3068cb/deploys/61b6b3b71fcd5e3f20276d26"
         rel="noreferrer"
       >
         Netlify
