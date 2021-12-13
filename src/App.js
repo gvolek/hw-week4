@@ -1,6 +1,5 @@
 import "./App.css";
 import Weather from "./Weather";
-import { StrictMode } from "react";
 
 function App() {
   return (
